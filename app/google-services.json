@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013875877866",
+    "project_id": "fcm-test-43a71",
+    "storage_bucket": "fcm-test-43a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013875877866:android:ed8c67dfa63d0cda7b3493",
+        "android_client_info": {
+          "package_name": "sumit.app.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0WIZ7cQG_Lht-he-Vv0nURrJ9jlOqxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
